@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "54729199990",
+    "firebase_url": "https://vertical-wall-222311.firebaseio.com",
+    "project_id": "vertical-wall-222311",
+    "storage_bucket": "vertical-wall-222311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54729199990:android:14b25bc59e2fcaf3",
+        "android_client_info": {
+          "package_name": "cifato.foody"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54729199990-e6e8p6vr8vpeh7steg446bgfh34mqbge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdrEsJ_iQ26KlIDo6e4m45ukGU5dKLrjg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
